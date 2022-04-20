@@ -47,5 +47,6 @@ git restore dog.txt
 git restore cat.txt
 git restore cat.txt dog.txt
 git restore --staged secrets.txt
-hello world
-good morning
+ important things
+nice concepts
+mind blowing concepts
